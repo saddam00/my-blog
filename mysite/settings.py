@@ -25,7 +25,7 @@ SECRET_KEY = '%9e-ci=b+$g_d+sn()c3n=&ya7m0dd_)cm4ie7mp854dybj!c8'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['msaddam.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1','msaddam.pythonanywhere.com']
 
 
 # Application definition
